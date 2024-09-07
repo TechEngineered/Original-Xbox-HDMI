@@ -28,8 +28,8 @@ This project aims to provide an open-source hardware design for an HDMI board fo
 
 - **Schematic:** '[Link](https://www.flux.ai/techengineered/original-xbox-hdmi-board-v1?editor=schematic)'
 - **PCB Layout:**'[Link](https://www.flux.ai/techengineered/original-xbox-hdmi-board-v1?editor=pcb_2d)'
-- **3D Render:** '[Render Image](https://github.com/TechEngineered/original-xbox-hdmi/blob/main/PCB%20Render.png)'
-- **Bill of Materials (BOM):** '[BOM.csv](https://github.com/TechEngineered/original-xbox-hdmi/blob/main/BOM.csv)'
+- **3D Render:** '[Render Image](https://www.flux.ai/techengineered/original-xbox-hdmi-board-v1?editor=pcb_3d)'
+- **Bill of Materials (BOM):** '[BOM.csv](https://github.com/TechEngineered/Original-Xbox-HDMI/blob/main/BOM.csv)'
 - **Gerbers:** '[Gerbers](techengineered-original-xbox-hdmi-board-v1-Gerbers.zip)'
 
 ### Some images

@@ -34,8 +34,9 @@ This project aims to provide an open-source hardware design for an HDMI board fo
 
 ### Some images
 
--![PCB Render](https://github.com/user-attachments/assets/98d1608d-1773-4177-b271-75e8f433d4f9)
--![PCBVIEW](https://github.com/user-attachments/assets/6c999652-0bfa-4230-b45b-c6bf9cec969f)
+-[PCB Render](https://github.com/user-attachments/assets/f322aa2c-4367-4bd3-818b-f1cfb164ac6f)
+-[PCBVIEW](https://github.com/user-attachments/assets/6bfa0648-4693-43dd-91c3-b537c78296fb)
+
 
 ### How to Use
 
